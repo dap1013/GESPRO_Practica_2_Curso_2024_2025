@@ -51,6 +51,7 @@ Movemos las tareas de la release 2 a la columna de sprint backlog
 ![image](https://github.com/user-attachments/assets/c0389f3d-e92c-43f3-ba3a-ca4c3c7de3b5)
 
 - Tareas de la 2da Release en progreso y filtradas por algún topic (15%)
+Tareas filtradas por el Topic:setup
 ![image](https://github.com/user-attachments/assets/1135c634-9f6b-4216-8099-87e44830d443)
 
 - Imagen de conversación en dos tareas (10%)
