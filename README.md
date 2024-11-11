@@ -30,7 +30,13 @@ Filtrar por tipo Task:
 ![image](https://github.com/user-attachments/assets/92672e8b-9ede-428e-9f39-9c47ffd26c81)
 
 - Tareas de 1er Release en el Sprint Backlog (5%)
+Movemos todas las tareas de la primera release al sprint backlog
+![image](https://github.com/user-attachments/assets/938d3500-9b2e-4581-a92e-c9cdb9f1840f)
+
 - Tareas de 1er Release en progreso en diferentes columnas ( solo se mueven las type: TASKS) (10%)
+Movemos las tasks por las diferentes columnas en el orden establecido hasta tener todas las task en la columna de close
+![image](https://github.com/user-attachments/assets/bb5c5990-f45b-43a6-9598-b911347404aa)
+
 - Cierre de 1er Release (5%)
 - Comienzo de la 2da Release (10%)
 - Tareas de la 2da Release en progreso y filtradas por algún topic (15%)
