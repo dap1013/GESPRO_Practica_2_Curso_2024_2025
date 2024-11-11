@@ -38,8 +38,12 @@ Movemos las tasks por las diferentes columnas en el orden establecido hasta tene
 ![image](https://github.com/user-attachments/assets/bb5c5990-f45b-43a6-9598-b911347404aa)
 
 - Cierre de 1er Release (5%)
-
+Mover todas las tareas a la columna de closed
 ![image](https://github.com/user-attachments/assets/2f57c1fd-0156-4b3c-aa57-9155fb363eb8)
+
+Cerrar el priemer milestone
+![image](https://github.com/user-attachments/assets/6abaa4e8-ba69-4490-8f64-dda084e6a73e)
+
 
 - Comienzo de la 2da Release (10%)
 - Tareas de la 2da Release en progreso y filtradas por algún topic (15%)
