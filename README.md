@@ -21,17 +21,17 @@ Añadir el proyecto con fork:
  
 - Filtro por Epics, US y Tasks en la columna de New Issues (15%)
 Filtrar por tipo epic:
-![image](https://github.com/user-attachments/assets/39bcf898-918b-4181-a53c-8fad953c47e2)
+![image](https://github.com/user-attachments/assets/d6e86dc1-7908-4b42-95bd-6ee9533de437)
 
 Filtrar por tipo User story:
-![image](https://github.com/user-attachments/assets/b6287231-2349-4f85-afcf-6f3c58113632)
+![image](https://github.com/user-attachments/assets/571b45a3-89ab-43ee-ae3c-99c0372f897d)
 
 Filtrar por tipo Task:
 ![image](https://github.com/user-attachments/assets/92672e8b-9ede-428e-9f39-9c47ffd26c81)
 
 - Tareas de 1er Release en el Sprint Backlog (5%)
 Movemos todas las tareas de la primera release al sprint backlog
-![image](https://github.com/user-attachments/assets/938d3500-9b2e-4581-a92e-c9cdb9f1840f)
+![image](https://github.com/user-attachments/assets/c40a6cb4-2512-4c03-93fd-2758c489a690)
 
 - Tareas de 1er Release en progreso en diferentes columnas ( solo se mueven las type: TASKS) (10%)
 Movemos las tasks por las diferentes columnas en el orden establecido hasta tener todas las task en la columna de close
