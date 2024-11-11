@@ -55,4 +55,6 @@ Tareas filtradas por el Topic:setup
 ![image](https://github.com/user-attachments/assets/1135c634-9f6b-4216-8099-87e44830d443)
 
 - Imagen de conversación en dos tareas (10%)
+![image](https://github.com/user-attachments/assets/871e0349-c4e3-42ff-bf61-e5f8e0ba8132)
+
 - Ejecución de alguna de las acciones en el proyector o/y cuestionario oral. (15%)
