@@ -47,6 +47,8 @@ Cerrar el primer milestone
 
 
 - Comienzo de la 2da Release (10%)
+![image](https://github.com/user-attachments/assets/c0389f3d-e92c-43f3-ba3a-ca4c3c7de3b5)
+
 - Tareas de la 2da Release en progreso y filtradas por algún topic (15%)
 - Imagen de conversación en dos tareas (10%)
 - Ejecución de alguna de las acciones en el proyector o/y cuestionario oral. (15%)
